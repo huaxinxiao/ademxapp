@@ -142,7 +142,7 @@ Results on the *val* set:
     :---|:---:|:---:|:---:|:---:
     Model A1, 2 conv.|VOC; SBD|500|80.84|[aar](https://cloudstor.aarnet.edu.au/plus/index.php/s/YqNptRcboMD44Kd)
     Model A1, 2 conv.|VOC; SBD; COCO|500|82.86|[aar](https://cloudstor.aarnet.edu.au/plus/index.php/s/JKWePbLPlpfRDW4)
-    My test|VOC; SBD; COCO|500|
+    My test|VOC; SBD; COCO|500|82.29|
 
 Results on the *test* set:
 
