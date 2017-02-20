@@ -185,7 +185,7 @@ Results on the *val* set:
 
     model|training data|testing scale|mean IoU (%)|download
     :---|:---:|:---:|:---:|:---:
-    Model A1, 2 conv.|fine|1024x2048|to be updated|to be updated
+    Model A1, 2 conv.|fine|1024x2048|78.08%|to be updated
     Model A2, 2 conv.|fine|1024x2048|77.86|--
     Model A2, 2 conv.|fine; coarse|1024x2048|79.99|--
 
